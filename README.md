@@ -48,25 +48,10 @@ An intelligent Applicant Tracking System (ATS) Resume Scanner built using **Toke
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ats-resume-scanner.git
+git clone https://github.com/kesavarao1022/ATS_Scan
 cd ats-resume-scanner
 pip install -r requirements.txt
 
----
-
-## ✅ Getting Started
-
-### Prerequisites
-
-- Python 3.7+
-- pip
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/ats-resume-scanner.git
-cd ats-resume-scanner
-pip install -r requirements.txt
 
 ---
 
