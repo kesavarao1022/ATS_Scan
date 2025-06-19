@@ -33,11 +33,6 @@ An intelligent Applicant Tracking System (ATS) Resume Scanner built using **Toke
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## ✅ Getting Started
 
 ### Prerequisites
@@ -49,16 +44,19 @@ An intelligent Applicant Tracking System (ATS) Resume Scanner built using **Toke
 
 ```bash
 git clone https://github.com/kesavarao1022/ATS_Scan
-cd ats-resume-scanner
+cd ATS_Scan
 pip install -r requirements.txt
 ```
 
 ### Run the App
-- python app.py
+python app.py
 or using Streamli app
 streamlit run app.py
+
 ---
 Created by [Kesava Rao] – [kesava0817@gmail.com]
 GitHub: @kesava_1022
-LinkedIn: https://www.linkedin.com/in/kesava-rao-chakka-1075a1220/
+LinkedIn: https://www.linkedin.com/in/kesava-rao-chakka-1075a1220
+
+---
 Let me know if you want a version that includes screenshots, Streamlit web interface details, or an example resume/job description.
